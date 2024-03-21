@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://www.linkedin.com/in/nanda-krishnan-v-11234b27b/](https://www.linkedin.com/in/nanda-krishnan-v-11234b27b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakrishnanv" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/nanda-krishnan-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakrishnanv" height="30" width="40" /></a>
 <a href="https://instagram.com/nanda_krishnan.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanda_krishnan.v" height="30" width="40" /></a>
 </p>
 
