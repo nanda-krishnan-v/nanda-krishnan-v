@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nanda Krishnan V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi there! 👋</h1>
 
-- 🔭 I’m currently working on **Colleague App**
+<p>I'm a tech enthusiast passionate about <strong>cybersecurity</strong> and <strong>development</strong>. I love exploring security concepts, building projects, and learning new technologies.</p>
 
-- 🌱 I’m currently learning **Flutter , Firebase**
+<h2>🔥 Interests</h2>
+<ul>
+  <li>Cybersecurity 🛡️ | Ethical Hacking | Cryptography</li>
+  <li>Software Development 💻 | Web & App Dev | Automation</li>
+  <li>Open Source & Tech Communities</li>
+</ul>
 
-- 📫 How to reach me **nandakrishnanv15@gmail.com**
+<h2>🚀 What I'm Up To</h2>
+<ul>
+  <li>Building security-focused tools & applications</li>
+  <li>Experimenting with cryptography & secure coding practices</li>
+  <li>Learning and sharing knowledge in cybersecurity & development</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/nanda-krishnan-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandakrishnanv" height="30" width="40" /></a>
-<a href="https://instagram.com/nanda_krishnan.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanda_krishnan.v" height="30" width="40" /></a>
-</p>
+<h2>📫 Connect with Me</h2>
+<ul>
+  <li>GitHub: <a href="https://github.com/YourUsername">YourUsername</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/YourProfile">YourProfile</a></li>
+  <li>Blog (if any): <a href="https://yourblog.com">YourBlog</a></li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-krishnan-v&show_icons=true&locale=en&layout=compact" alt="nanda-krishnan-v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanda-krishnan-v&show_icons=true&locale=en" alt="nanda-krishnan-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanda-krishnan-v&" alt="nanda-krishnan-v" /></p>
+<p>Let's connect and build something awesome together! 🚀</p>
