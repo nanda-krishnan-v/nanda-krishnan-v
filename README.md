@@ -20,7 +20,7 @@
 <h2>📫 Connect with Me</h2>
 <ul>
   <li>Email: <a href="mailto:nandakrishnanv15@gmail.com">nandakrishnanv15@gmail.com</a></li>
-  <li>LinkedIn: <a href="[https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/nanda-krishnan-v-11234b27b/)">YourProfile</a></li>
+  <li>LinkedIn: <a href="[https://www.linkedin.com/in/nanda-krishnan-v-11234b27b/]">Nanda Krishnan V</a></li>
 </ul>
 
 <p>Let's connect and build something awesome together! 🚀</p>
