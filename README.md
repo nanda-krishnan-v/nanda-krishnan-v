@@ -18,9 +18,7 @@
 
 <h2>📫 Connect with Me</h2>
 <ul>
-  <li>GitHub: <a href="https://github.com/YourUsername">YourUsername</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/YourProfile">YourProfile</a></li>
-  <li>Blog (if any): <a href="https://yourblog.com">YourBlog</a></li>
+  <li>LinkedIn: <a href="[https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/nanda-krishnan-v-11234b27b/)">YourProfile</a></li>
 </ul>
 
 <p>Let's connect and build something awesome together! 🚀</p>
